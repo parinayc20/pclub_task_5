@@ -3,4 +3,5 @@
 If the given driver is not supported in your system please download the respective driver from [here](https://chromedriver.chromium.org/downloads)
 ## Note
 The program may take some time to run. Please be patient.<br>
-The time taken increases with the number of lectures to scrape.
+The time taken increases with the number of lectures to scrape.<br>
+Some new lines (\n) are not visible in the csv file uploaded. Plese download and view in Excel to view them.
